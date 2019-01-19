@@ -7,5 +7,13 @@ where, XXXXX is the sequence number of the recovery. DXXXXX files with equivalen
        MM is the month the data was recovered,
        DD is the day the data was recovered.
 
-These files contain raw data from each instrument.
+These files contain raw data from each instrument. 
+Including:
+Salinity
+Temperature
+Actual Conductivity
+Specific Conductivity
+Resistivity
+Density
+Total Dissolved Solids
 
