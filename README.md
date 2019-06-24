@@ -1,5 +1,5 @@
 # Collaborative Monitoring Platform
-The CMP resulted from the combined effort of the Oregon commercial fishing and scientific communities to compose a modular platform that would produce data usable by both sectors.
+The CMP is funded by Oregon Sea Grant and resulted from the combined effort of the Oregon commercial fishing and scientific communities to compose a modular platform that would produce data usable by both sectors.
 
 The system is currently comprised of three temperature-salinity sensors placed at three depths (3ft, 7ft, and 11ft) and located at the commercial docks in Newport, OR.
 
